@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @idkvani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Chào 👋, tớ là [V4N1](https://github.com/idkvani)
+
+**Giới thiệu về bản thân:**
+
+ - Tên thật của mình là: **V4N1**
+ - Mình đang là **Developer**
+
+**Liên hệ:**
+ 
+ - ⭐⭐ Facebook: [Viên Ngọc An](https://fb.me/idk.vani)
+ - ⭐⭐ Github: [V4N1](https://github.com/idkvani)
 
 <!---
 idkvani/idkvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
